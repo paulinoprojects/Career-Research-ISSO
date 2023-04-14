@@ -9,6 +9,16 @@
 
 - eMASS is designed to streamline the security authorization process, improve collaboration between stakeholders, and ensure that DoD information systems meet established security standards and requirements. It is an important tool for achieving and maintaining compliance with the Federal Information Security Management Act (FISMA) and other security regulations.
 
+#### Training and Resources
+https://dod.elearning.ndu.edu/eMASS/login/index.php
+
+https://www.dcsa.mil/is/kc/diss/
+
+https://www.disa.mil/Training/DISA-Knowledge-Center
+
+https://public.cyber.mil/training/cyber-exchange/
+
+
 
 
 

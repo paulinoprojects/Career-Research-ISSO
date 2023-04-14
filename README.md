@@ -19,6 +19,15 @@ https://www.disa.mil/Training/DISA-Knowledge-Center
 https://public.cyber.mil/training/cyber-exchange/
 
 
-
+### General Work Flow
+1. System owner initiates a new system authorization package in eMASS.
+2. Security assessors conduct a risk assessment and develop a Security Assessment Plan (SAP) in eMASS.
+3. Security assessors conduct security testing and document results in eMASS.
+4. Security assessors develop a Plan of Action and Milestones (POA&M) to address any identified vulnerabilities and risks in eMASS.
+5. System owner and security assessors update the System Security Plan (SSP) and Security Controls Matrix (SCM) in eMASS.
+6. System owner submits the authorization package to the Authorizing Official (AO) for review and approval in eMASS.
+7. Authorizing Official approves the package and grants an Authorization to Operate (ATO) in eMASS.
+8. System owner implements the security controls and ongoing monitoring activities required by the ATO, documenting all changes and updates in eMASS.
+9. System owner and security assessors review and update the authorization package and supporting documentation annually or as needed to maintain compliance in eMASS.
 
 

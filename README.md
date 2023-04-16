@@ -31,3 +31,12 @@ https://public.cyber.mil/training/cyber-exchange/
 9. System owner and security assessors review and update the authorization package and supporting documentation annually or as needed to maintain compliance in eMASS.
 
 
+## Key Terminology
+- Security Assessment Plan (SAP): A SAP is a document that outlines the scope, objectives, and methods for conducting a security assessment of an information system. It includes details on the types of security controls to be tested, the assessment procedures to be used, and the criteria for evaluating the effectiveness of the controls. An example of a SAP for eMASS might include sections on vulnerability scanning, penetration testing, and compliance with security standards.
+
+- Plan of Action and Milestones (POA&M): A POA&M is a document that lists the actions required to address any identified vulnerabilities or deficiencies in an information system's security controls. It includes details on the specific actions to be taken, the responsible parties, and the deadlines for completion. An example of a POA&M in eMASS might include actions to patch software vulnerabilities, implement additional access controls, and improve incident response procedures.
+
+- Security Controls Matrix (SCM): A SCM is a document that lists all the security controls required for an information system to comply with relevant security standards and regulations. It includes details on the specific controls, how they are implemented, and how they are tested and monitored. An example of an SCM in eMASS might include controls related to access management, cryptography, and incident response.
+
+- Authorization Packages: An authorization package is a collection of documents and information related to the assessment, authorization, and ongoing monitoring of an information system's security. It includes the System Security Plan (SSP), SAP, POA&M, and SCM, as well as any supporting documentation, such as vulnerability assessments and security test results. An example of an authorization package in eMASS might include all of these documents and information, as well as any communication and approval records from the relevant stakeholders involved in the authorization process.
+

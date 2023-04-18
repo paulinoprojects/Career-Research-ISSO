@@ -40,3 +40,49 @@ https://public.cyber.mil/training/cyber-exchange/
 
 - Authorization Packages: An authorization package is a collection of documents and information related to the assessment, authorization, and ongoing monitoring of an information system's security. It includes the System Security Plan (SSP), SAP, POA&M, and SCM, as well as any supporting documentation, such as vulnerability assessments and security test results. An example of an authorization package in eMASS might include all of these documents and information, as well as any communication and approval records from the relevant stakeholders involved in the authorization process.
 
+
+## Initial Walkthrough and Guidelines 
+1. Obtain an eMASS account.
+2. Create a user profile.
+3. Set up your security preferences.
+4. Learn the eMASS interface.
+5. Start using eMASS for audits.
+
+- Once you are familiar with the eMASS interface, you can start using it to conduct audits.
+- eMASS provides a wide range of features that can help you to conduct audits effectively.
+- You can find more information about using eMASS for audits on the eMASS website.
+
+### additional tips for using eMASS for audits:
+Use the help system.
+The eMASS help system is a valuable resource that can answer your questions about how to use the application.
+Take advantage of training.
+The DoD offers a variety of training courses on how to use eMASS.
+These courses can help you to learn how to use the application effectively.
+Stay up-to-date.
+eMASS is constantly being updated with new features and functionality.
+Be sure to check the eMASS website regularly for updates.
+
+
+## Guidelines for using eMASS for audits:
+
+Plan your audit carefully.
+Before you start your audit, take some time to plan it out. 
+  - This will help you to ensure that you are efficient and effective.
+Set clear goals and objectives.
+  - What do you hope to achieve with your audit?
+Once you know your goals, you can develop a plan to achieve them.
+  - Identify the scope of your audit.
+What systems or processes will you be auditing?
+  - It is important to define the scope of your audit so that you can stay focused.
+Gather evidence.
+  - Once you have identified the scope of your audit, you need to gather evidence.
+  - This evidence can be in the form of documents, interviews, or observations.
+Analyze the evidence.
+  - Once you have gathered evidence, you need to analyze it.
+  - This will help you to identify any areas of concern.
+Report your findings.
+  - Once you have analyzed the evidence, you need to report your findings.
+  - Your report should be clear, concise, and objective.
+Follow up on your findings.
+  - Once you have reported your findings, you need to follow up on them.
+  - This will help you to ensure that any areas of concern are addressed.

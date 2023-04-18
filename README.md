@@ -52,7 +52,7 @@ https://public.cyber.mil/training/cyber-exchange/
 - eMASS provides a wide range of features that can help you to conduct audits effectively.
 - You can find more information about using eMASS for audits on the eMASS website.
 
-### additional tips for using eMASS for audits:
+### Additional tips for using eMASS for audits:
 Use the help system.
 The eMASS help system is a valuable resource that can answer your questions about how to use the application.
 Take advantage of training.
